@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\zFacul\\Barbearia\\Barbearia.csproj": {}
+    "C:\\Users\\Diogo\\Documents\\Github\\Barbearia\\Barbearia.csproj": {}
   },
   "projects": {
-    "C:\\zFacul\\Barbearia\\Barbearia.csproj": {
+    "C:\\Users\\Diogo\\Documents\\Github\\Barbearia\\Barbearia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\zFacul\\Barbearia\\Barbearia.csproj",
+        "projectUniqueName": "C:\\Users\\Diogo\\Documents\\Github\\Barbearia\\Barbearia.csproj",
         "projectName": "Barbearia",
-        "projectPath": "C:\\zFacul\\Barbearia\\Barbearia.csproj",
-        "packagesPath": "C:\\Users\\wdasilva\\.nuget\\packages\\",
-        "outputPath": "C:\\zFacul\\Barbearia\\obj\\",
+        "projectPath": "C:\\Users\\Diogo\\Documents\\Github\\Barbearia\\Barbearia.csproj",
+        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diogo\\Documents\\Github\\Barbearia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\wdasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -71,7 +66,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
