@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\zFacul\\Barbearia\\Barbearia\\Barbearia.csproj": {}
+    "C:\\zFacul\\Barbearia\\Barbearia.csproj": {}
   },
   "projects": {
-    "C:\\zFacul\\Barbearia\\Barbearia\\Barbearia.csproj": {
+    "C:\\zFacul\\Barbearia\\Barbearia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\zFacul\\Barbearia\\Barbearia\\Barbearia.csproj",
+        "projectUniqueName": "C:\\zFacul\\Barbearia\\Barbearia.csproj",
         "projectName": "Barbearia",
-        "projectPath": "C:\\zFacul\\Barbearia\\Barbearia\\Barbearia.csproj",
+        "projectPath": "C:\\zFacul\\Barbearia\\Barbearia.csproj",
         "packagesPath": "C:\\Users\\wdasilva\\.nuget\\packages\\",
-        "outputPath": "C:\\zFacul\\Barbearia\\Barbearia\\obj\\",
+        "outputPath": "C:\\zFacul\\Barbearia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

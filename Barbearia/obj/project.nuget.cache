@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yiNYcANHKEehLm75znZ2p7698eSh3dDh5JBjJcJHIQ/6Jz0tT1O1OeMFp2x4urkkrwjKAuEb0mYNcqreDN265w==",
+  "dgSpecHash": "sHmnw9J/L/NG5Quf6qWgvTZT+8qzpF315ny5WODyPnYJnbkRNwpidPRgF+BV79Kr2RqQ6DX4Qr+NkdseXLm2UA==",
   "success": true,
-  "projectFilePath": "C:\\zFacul\\Barbearia\\Barbearia\\Barbearia.csproj",
+  "projectFilePath": "C:\\zFacul\\Barbearia\\Barbearia.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
