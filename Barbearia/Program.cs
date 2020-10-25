@@ -14,7 +14,8 @@ namespace Barbearia
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run(); //testediogo
+            CreateWebHostBuilder(args).Build().Run(); //testediogo //teste wagner
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
